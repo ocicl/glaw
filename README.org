@@ -1,0 +1,10 @@
+* glaw
+
+OpenGL based Common Lisp game toolkit
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/patzy/glaw.git   |
+| commit  | e678fc0  |
+| systems | glaw |
+|---------+-------------------------------------------|
+
